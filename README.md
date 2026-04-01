@@ -43,13 +43,13 @@ With hands-on experience in SIEM tools, incident response, and analytics platfor
 ## 📂 Featured Projects
 
 ### 🏛️ GRC Projects
-- Mini Compliance Program (ISO 27001 / NIST)
-- Risk Register for a Company
-- Third-Party Vendor Assessment Template
-- An Incident Response Plan and Test
-- Map SOC 2 Controls Assessment to a Cloud Environment
-- A Compliance Dashboard in Excel / Power BI
-- A Mock Internal Audit
+- Mini Compliance Program (ISO 27001 / NIST) https://github.com/GodwinID/Mini-Compliance-Program-ISO-27001-NIST-
+- Risk Register for a Company https://github.com/GodwinID/Risk-Register-for-a-Company
+- Third-Party Vendor Assessment Template https://github.com/GodwinID/Third-Party-Vendor-Assessment-Template
+- An Incident Response Plan and Test https://github.com/GodwinID/An-Incident-Response-Plan-and-Test
+- Map SOC 2 Controls Assessment to a Cloud Environment https://github.com/GodwinID/Map-SOC-2-Controls-Assessment-to-a-Cloud-Environment
+- A Compliance Dashboard in Excel / Power BI https://github.com/GodwinID/A-Compliance-Dashboard-in-Excel-Power-BI
+- A Mock Internal Audit https://github.com/GodwinID/A-Mock-Internal-Audit
 
 ---
 
