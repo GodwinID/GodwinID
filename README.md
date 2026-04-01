@@ -76,7 +76,7 @@ With hands-on experience in SIEM tools, incident response, and analytics platfor
 
 - 💼 LinkedIn: www.linkedin.com/in/godwin-iduye07 
 - 📧 Email: godwin.iduye07@outlook.com  
-- 📄 Resume: On request  
+- 📄 Resume: Upon request  
 
 ---
 
