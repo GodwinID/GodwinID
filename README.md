@@ -90,3 +90,8 @@ With hands-on experience in SIEM tools, incident response, and analytics platfor
 ---
 
 ⭐ *Open to cybersecurity, GRC, and data analytics opportunities*
+
+<img width="258" height="296" alt="Screenshot 2026-04-03 1431581" src="https://github.com/user-attachments/assets/92b23f7f-8993-4030-ab3e-5b3341de5000" />  |  <img width="475" height="184" alt="Screenshot 2026-04-02 171022" src="https://github.com/user-attachments/assets/d416b24a-6a5c-4e3c-86c3-1fd8cac35aa2" />
+
+
+
